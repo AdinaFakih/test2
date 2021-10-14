@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42836" started-at="2021-10-11T17:01:37 PKT" finished-at="2021-10-11T17:02:20 PKT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42836" started-at="2021-10-11T17:01:37 PKT" finished-at="2021-10-11T17:02:20 PKT">
+      <class name="Example2.Login">
+        <test-method status="PASS" signature="login_Test()[pri:0, instance:Example2.Login@56235b8e]" name="login_Test" duration-ms="31040" started-at="2021-10-11T17:01:43 PKT" finished-at="2021-10-11T17:02:14 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- Example2.Login -->
+      <class name="Example2.jojo">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Example2.jojo@6fc6f14e]" name="loginTest" duration-ms="2428" started-at="2021-10-11T17:01:41 PKT" finished-at="2021-10-11T17:01:43 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- Example2.jojo -->
+      <class name="Example2.NavigationTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Example2.NavigationTest@20398b7c]" name="beforeMethod" is-config="true" duration-ms="3873" started-at="2021-10-11T17:01:37 PKT" finished-at="2021-10-11T17:01:41 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigateToAUrl()[pri:0, instance:Example2.NavigationTest@20398b7c]" name="navigateToAUrl" duration-ms="4525" started-at="2021-10-11T17:02:14 PKT" finished-at="2021-10-11T17:02:19 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToAUrl -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Example2.NavigationTest@20398b7c]" name="afterMethod" is-config="true" duration-ms="846" started-at="2021-10-11T17:02:19 PKT" finished-at="2021-10-11T17:02:20 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Example2.NavigationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
